@@ -31,10 +31,15 @@
 
 [Root-Bernstein (2002) Aesthetic cognition](https://www.tandfonline.com/doi/pdf/10.1080/02698590120118837?casa_token=nCwE7JTHehIAAAAA%3ABJ2R18heLYCmz81awLugrNfWeiezkTlxhHZXDyJ_AeH_76tR5WPxtTitM0ww_UaiksO_3fuO81_tew&)
 
-
 [Lopes & Machado (2019) Complexity Analysis of Escher’s Art](file:///home/valentin/Downloads/entropy-21-00553-v2.pdf)
-
 
 [Gucluturk & van Lier (2019) Decomposing Complexity Preferences for Music](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00674/full#B36)
 
 [Schmidhuber (1997) Low-Complexity Art](https://www.jstor.org/stable/1576418)
+
+[Scha & Bod (1993) Computational Esthetics](http://www.remkoscha.nl/compestE.html)
+
+[Sbert et al (2007) Conceptualizing Birkhoff's Aesthetic Measure Using Shannon Entropy and Kolmogorov Complexity.](https://www.researchgate.net/publication/220795251_Conceptualizing_Birkhoff's_Aesthetic_Measure_Using_Shannon_Entropy_and_Kolmogorov_Complexity)
+
+[Zhang et al (2018) Computational aesthetics and applications](https://link.springer.com/article/10.1186/s42492-018-0006-1)
+

@@ -43,6 +43,9 @@
    
  - agency and aesthetics: assigning agency to our Neural Net in connection to the fact that we do not quite understand its inner workings implies that we do not have a clear conception of the Net's aestetic and need to figure out empirically what that is and how closely it matches ours
 
+- even with an AI-based tool, aesthetic musical pieces do not come for free but evolve out of a feedback process that takes much tweaking <br>
+  => this is notable insofar as one may expect otherwise: since the Net is quite literally trained to the "rules" (cf. Wittgenstein) of music, it could be expected that its outputs are trivially aesthetically pleasing => samples of evolution
+
 
 # Papers
 

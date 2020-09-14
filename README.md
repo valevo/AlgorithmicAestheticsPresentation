@@ -7,6 +7,15 @@
  - what are the ingredients of aesthetic value?
  - can aestethics be defined at all independent from individual perspective? which aspects are cultural/biological/universal?
 
+## Wittgenstein
+
+ - cultural aspect of aesthetics: rules emerge in society about how things "ought" to be; an individual aesthetic judgement about a thing is an expression to the adherence of that thing to the rules of society <br>
+ => comment: this aspect of aesthetic judgements is extra-individual, in the sense that any individual who knows the rules would make similar judgements
+ => comment: the _simplicity_ of a thing conditioned on the rules of society is equivalent to the thing's _adherence_ to those rules
+
+ - according to W., creative inventions don't break with all of the old rules but still adhere to the great many of them
+
+
 # How can aesthetics be formalised?
 
  - 
@@ -25,9 +34,16 @@
  predicted is judged to have higher aesthetic value (think about principles of symmetry, grouping, geometric shape)
  
  
- 
+
+# Miscellaneous Notes
+
+ - applying automated aesthetic measurements/judgements to the music produced by/with our Neural Net fits into the agenda of using AI as a mirror for ourselves: <br>
+   it is arguably impossible for us to explore certain areas of the musical space, but this can be done with the help of our Neural Net; the measured aesthetic value of music in such areas and our own subjective judgements in comparison shed light on our aesthetics and taste 
+
+
 # Papers
 
+Wittgenstein: Lectures and Conversations on Aesthetics, Psychology and Religious Belief
 
 [Root-Bernstein (2002) Aesthetic cognition](https://www.tandfonline.com/doi/pdf/10.1080/02698590120118837?casa_token=nCwE7JTHehIAAAAA%3ABJ2R18heLYCmz81awLugrNfWeiezkTlxhHZXDyJ_AeH_76tR5WPxtTitM0ww_UaiksO_3fuO81_tew&)
 

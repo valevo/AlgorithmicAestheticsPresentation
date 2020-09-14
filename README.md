@@ -39,6 +39,9 @@
 
  - applying automated aesthetic measurements/judgements to the music produced by/with our Neural Net fits into the agenda of using AI as a mirror for ourselves: <br>
    it is arguably impossible for us to explore certain areas of the musical space, but this can be done with the help of our Neural Net; the measured aesthetic value of music in such areas and our own subjective judgements in comparison shed light on our aesthetics and taste 
+   
+   
+ - agency and aesthetics: assigning agency to our Neural Net in connection to the fact that we do not quite understand its inner workings implies that we do not have a clear conception of the Net's aestetic and need to figure out empirically what that is and how closely it matches ours
 
 
 # Papers
@@ -58,4 +61,5 @@ Wittgenstein: Lectures and Conversations on Aesthetics, Psychology and Religious
 [Sbert et al (2007) Conceptualizing Birkhoff's Aesthetic Measure Using Shannon Entropy and Kolmogorov Complexity.](https://www.researchgate.net/publication/220795251_Conceptualizing_Birkhoff's_Aesthetic_Measure_Using_Shannon_Entropy_and_Kolmogorov_Complexity)
 
 [Zhang et al (2018) Computational aesthetics and applications](https://link.springer.com/article/10.1186/s42492-018-0006-1)
+
 

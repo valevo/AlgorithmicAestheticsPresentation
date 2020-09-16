@@ -66,4 +66,5 @@ Wittgenstein: Lectures and Conversations on Aesthetics, Psychology and Religious
 
 [Zhang et al (2018) Computational aesthetics and applications](https://link.springer.com/article/10.1186/s42492-018-0006-1)
 
-
+[Christenson (1979) ON THE VIRTUES OF SIMPLICITY: SOME COMMENTS ON STATISTICAL ANALYSIS IN
+ANTHROPOLOGY](https://www.jstor.org/stable/pdf/25667524.pdf); only cited by 7 papers that seem unrelated, so may not be the best source

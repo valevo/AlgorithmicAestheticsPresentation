@@ -68,3 +68,5 @@ Wittgenstein: Lectures and Conversations on Aesthetics, Psychology and Religious
 
 [Christenson (1979) ON THE VIRTUES OF SIMPLICITY: SOME COMMENTS ON STATISTICAL ANALYSIS IN
 ANTHROPOLOGY](https://www.jstor.org/stable/pdf/25667524.pdf); only cited by 7 papers that seem unrelated, so may not be the best source
+
+[Ingham (2007) Simplicity and Complexity in Anthropolgy](https://www.emerald.com/insight/content/doi/10.1108/10748120710735220/full/html#idm46027260810752)

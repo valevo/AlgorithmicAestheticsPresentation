@@ -91,9 +91,15 @@
     hence,
   
   
-## 2.3 Simplicity and Aesthetics
+## 2.3 Simplicity in Aesthetics More Conretely
 
- - simplicity preference need not be absolute but may be conditioned on expressiveness ("given that I want to express X, what is the simplest way of doing so"); simplicity may be in the details or in the very basics, hence "hidden" from the viewer
+ - examples of simplicity in art include symmetry in painting, recurring motives in music, simples harmonies in music, reduced colour schemes in painting, abstract art <br>
+   cf. the more Picasso progressed in his career, the more reduced his painting of human anatomy became
+
+ - simplicity need not be absolute but may be conditioned on expressiveness ("given that I want to express X, what is the simplest way of doing so")
+ 
+ - simplicity may be in the details or in the very basics, hence "hidden" from the viewer <br>
+   e.g. a drawing of Donald Duck may seem rather complex but is "behind the scenes" based on very simple circular and elliptic shapes
 
 
 # 3. Simplicity and the Computer
@@ -101,17 +107,20 @@
 - in the mathematical perspective, objects are simple if there are short descriptions which allow their exact reconstructions (analogy: a cake vs the recipe which was used to make the cake; some cakes look very complicated and fancy but actually have simple recipes and vice-versa) <br>
   crucially, this notion of simplicity can be reproduced in computer science (i.e. mathematics) (because programs, i.e. binary strings, are really just descriptions ("recipes") of objects) => the simplicity of an object is equal to the length of the _shortest_ computer program which can reproduce it (goes under the fancy name of Kolmogorov complexity)
   
-- simplicity (and the length of descriptions) is in fact one of the central subjects of computer science and has brought influential results to the field
+- simplicity (and the length of programs) is in fact one of the central subjects of computer science and has brought influential results to the field
   
 (- on a technical note, unfortunately, there is no program to calculate the shortest program which can reproduce an object, so the simplicity of objects cannot be directly computed)
 
-- simplicity can be very easily approximated in practice by off-the-shelf compression programs, such as gzip etc
+- (BUT:) simplicity can be very easily approximated in practice by off-the-shelf compression programs, such as gzip etc <br>
+  apart form the philosophical appeal, this aspect makes the theory of aesthetics as simplicity very appealing because of its convenience
 
+
+## 3.1 Additional Notes
 - simplicity can be conditional: different observers may find the same object differently simple because of their individual previous experiences <br>
   crucially, this aspect can be captured in mathematics/computer science => I won't go into this now
 
 
 
-# 4. Simplicity 
+# 4. Measuring the Aesthetics of AI Music
 
-##
+## 4.1

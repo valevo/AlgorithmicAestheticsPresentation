@@ -93,6 +93,9 @@
   
 ## 2.3 Simplicity in Aesthetics More Conretely
 
+ - examples of simplicity in society include simple design patterns in building and everyday objects, simple traffic rules, simple greeting protocols <br>
+   societies abandon simple principles only when really necessary (which is the definition of preference)
+
  - examples of simplicity in art include symmetry in painting, recurring motives in music, simples harmonies in music, reduced colour schemes in painting, abstract art <br>
    cf. the more Picasso progressed in his career, the more reduced his painting of human anatomy became
 
@@ -109,6 +112,9 @@
   
 - simplicity (and the length of programs) is in fact one of the central subjects of computer science and has brought influential results to the field
   
+- simplicity is very closely related to patternedness: objects are simple if they exhibit highly regular, patterened structure (e.g. by repeating the same simple pattern over and over) and not simple if they have a lot of random aspects to them <br>
+  e.g. an Escher drawing is simple, a Pollock painting is not simple
+
 (- on a technical note, unfortunately, there is no program to calculate the shortest program which can reproduce an object, so the simplicity of objects cannot be directly computed)
 
 - (BUT:) simplicity can be very easily approximated in practice by off-the-shelf compression programs, such as gzip etc <br>
@@ -123,4 +129,30 @@
 
 # 4. Measuring the Aesthetics of AI Music
 
-## 4.1
+- got 450 MIDI samples from vNine, our own music AI & 200 human songs from the Eurovision Song Contest from the past years, also in MIDI format
+
+- (load songs into Python and) simply compress them with a few off-the-shelf compression algorithms (literally 5 lines of code) 
+
+## 4.1 Measuring Aesthetics by Simplicity Seems to Capture something
+
+  [LISTEN TO SAMPLES]
+
+
+## 4.2 Human Music is more Aesthetic
+
+  - human music is measured to be less complex than AI music [SHOW DISTRIBUTION]
+  
+  - slightly ambivalent news: good since human artists are better but also disappointing since our art is not very complex
+  
+  - was however to be expected: with our simplicity preference, we produce simple songs within the space of all possible songs <br>
+    although not surprising this fact alludes to the mirror effect our project aims at
+
+## 4.3 The Music Space
+
+  [DISCUSS 3D SPACE EMBEDDINGS]
+
+
+
+
+
+

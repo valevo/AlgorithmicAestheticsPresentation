@@ -18,7 +18,7 @@
 
  - aim of this section: we'll be looking at aesthetics from a computer science perspective which means translating it into mathematical concepts (don't worry, you won't see any formulas)
    
- - it is doubtable whether human aesthetics can be fully captured by mathematics at all; <br>
+ - it is doubtful whether human aesthetics can be fully captured by mathematics at all; <br>
    so, at least for the moment, no approach can fully cover the nature of what humans find aesthetically valuable; <br>
    on a related note, aesthetics likely has strong subjective aspects, so there likely isn't a unified/objective theory that works for any human and any context
    
@@ -27,7 +27,7 @@
    it is remarkable, however, how close to human we can get by the argument and method, especially seeing how **simple** it is 
    (this is a play on words, simplicity will be a core concept
    
- - so this story is to be taken more as prototypical story from algorithmic science and less as "the" solution
+ - so this story is to be taken more as prototypical story from algorithmic science and not as "the" solution
    
 # 1. Wittgenstein on Aesthetics
 
@@ -43,34 +43,75 @@
     (and not so much "beautiful" which is used more as a gesture) <br>
     e.g. "this is the right way of reading Goethe's poem", at the tailor: "make the sleeve a bit shorter for the right length"
     
-  - the crucial question then becomes: how have people learned in which situations to use the word "right"? <br>
-    note: with this question in mind, aesthetic judgements are closely connected to linguistic expression
+  - according to Wittgenstein, aesthetic judgement is distinct from appreciation: 
+    e.g. someone who doesn't speak English may still appreciate the sound of an English poem but could not make aesthetic judgements, 
+         i.e. could not say if it was read "right" or whether the rhymes are "correct"
     
-  - Wittgenstein's answer: in order to make aesthetic judgements, 
 
 ## 1.2 "Rules"
 
+  - the crucial question then becomes: how have people learned in which situations to use the word "right"? <br>
+    note: with this question in mind, aesthetic judgements are closely connected to linguistic expression
+
+  - Wittgenstein's answer: in order to make aesthetic judgements, one must know the "rules" <br>
+    one learns the "rules" from experts, peers, etc. 
+    e.g. one needs to know English to be able to be able to admire the way in which words were used
+    e.g. a trained musician might be able to make more detailed aesthetic judgements than someone who rarely listens to music <br>
+    
+  - what is an aesthetic judgement then becomes an expression of how much an object adheres to the "rules" in the eye of the observer 
+   
+  - comment: clearly, the way Wittgenstein sees aesthetics it is a societal or cultural concept, 
+    i.e. what we find aesthetic is dictated by our cultural norms and values
+
 
 # 2. Towards Simplicity: "Rules" and the Predictive Brain
+ 
+  - for now, I'll just use the word "simple" like it's an everyday word but describe later what it denotes in the algorithmic context
 
 ## 2.1 "Rules"
 
-  maximum simplicity conditioned on the rules is equivalent to maximum adherence to those rules
+  - although Wittgenstein may not have intended it, his view on aesthetics connects to simplicity, namely in two ways:
+    1. society has a preference for simple "rules" (evolutionary pressures, psychological principles (see below), etc), so if an object adheres to the "rules" and is therefore judged to be aesthetic, then it is also inherently simple
+    
+    2. the less simple (i.e. the more complex) an object, the higher is its chance to violate the "rules" (any rule, in fact) <br>
+       e.g. cooking: the more steps and the more ingredients in my cooking, the higher the chance to ruin the meal
+       e.g. if I compose a highly complicated song, I run a high risk of producing something that is not according to the specific set of "rules" in my cultural context
+ 
 
 ## 2.2 The Predictive Brain
 
-  attempting to avoid uncertainty, the brain strives to surround itself with simple things
-  hence, when we surround ourselves with art made by ourselves, that art will be simple
+  - there is a path from aesthetics to simplicity which is very much parallel to the one derived from Wittgenstein: the predictive brain; <br>
+    a framework in cognitive science and neuroscience, the theory of the predictive brain assumes that our brain constantly predict what happens next 
+    and then learns by comparing the reality to the predictions 
+
+  - attempting to avoid uncertainty (evolution! uncertainty is dangerous), the predictive brain strives to surround itself with simple things <br>
+    simple things are easier to predict, so our brain is 
+  
+  - if we apply this principle to those things and contexts we produce ourselves (e.g. art), then we should expect them to be simple <br>
+    hence,
   
   
+## 2.3 Simplicity and Aesthetics
+
+ - simplicity preference need not be absolute but may be conditioned on expressiveness ("given that I want to express X, what is the simplest way of doing so"); simplicity may be in the details or in the very basics, hence "hidden" from the viewer
+
+
 # 3. Simplicity and the Computer
 
+- in the mathematical perspective, objects are simple if there are short descriptions which allow their exact reconstructions (analogy: a cake vs the recipe which was used to make the cake; some cakes look very complicated and fancy but actually have simple recipes and vice-versa) <br>
+  crucially, this notion of simplicity can be reproduced in computer science (i.e. mathematics) (because programs, i.e. binary strings, are really just descriptions ("recipes") of objects) => the simplicity of an object is equal to the length of the _shortest_ computer program which can reproduce it (goes under the fancy name of Kolmogorov complexity)
+  
+- simplicity (and the length of descriptions) is in fact one of the central subjects of computer science and has brought influential results to the field
+  
+(- on a technical note, unfortunately, there is no program to calculate the shortest program which can reproduce an object, so the simplicity of objects cannot be directly computed)
+
+- simplicity can be very easily approximated in practice by off-the-shelf compression programs, such as gzip etc
 
 - simplicity can be conditional: different observers may find the same object differently simple because of their individual previous experiences <br>
   crucially, this aspect can be captured in mathematics/computer science => I won't go into this now
 
 
 
-# 4. A of Measurement Simplicity
+# 4. Simplicity 
 
 ##
